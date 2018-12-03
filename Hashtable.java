@@ -1,6 +1,5 @@
 import java.util.NoSuchElementException;
 import java.util.ArrayList;
-import java.util.NoSuchElementException;
 
 public class Hashtable {
     private static int INITIAL_SIZE = 314527;
